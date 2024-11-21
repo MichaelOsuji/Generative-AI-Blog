@@ -8,7 +8,7 @@ This folder contains the code for a generative AI blog platform using Llama as t
 - Improvement of engagement levels ensuring timely responses keeping audiences engaged.
 
 ## Steps Taken
-- Downloading and importing the Llama and streamlit model into the Python environment
+- Downloading and importing LangChain and streamlit model into the Python environment
 - Writing the code and functions to be utilized
 - Setting the parameters to the desired values
 
